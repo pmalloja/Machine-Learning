@@ -1,4 +1,4 @@
-# This is Machine Learning & AI Repository
+## This is Machine Learning & AI Repository
 
 ------------------------------------------
 ### Project 1 
