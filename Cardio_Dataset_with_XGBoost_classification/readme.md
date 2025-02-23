@@ -1,6 +1,8 @@
 # Cardiovascular Disease Prediction using XGBoost
 
-This repository contains a machine learning project aimed at predicting cardiovascular disease using the XGBoost algorithm. The dataset used in this project is the `cardio_train.csv` dataset, which contains various health metrics such as age, weight, blood pressure, cholesterol levels, and more.
+This repository contains a machine learning project aimed at predicting cardiovascular disease using the XGBoost algorithm. The dataset used in this project is the `cardio_train.csv`(from Kaggle) dataset, which contains various health metrics such as age, weight, blood pressure, cholesterol levels, and more.
+
+## Dataset Link : https://www.kaggle.com/datasets/sulianova/cardiovascular-disease-dataset
 
 ## Table of Contents
 - [Project Overview](#project-overview)
